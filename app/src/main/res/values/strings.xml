@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StarterCalculator</string>
+    <string name="tv_01">Пришло время КАЛЬКУЛЯТОРА!!!</string>
+        <string name="btn_start">ПОЕХАЛИ</string>
 </resources>
